@@ -1,0 +1,11 @@
+# request-deduplicator
+
+Deduplicate in-flight requests automatically. Saves costs, prevents thundering herd. ```javascript const dedup = new RequestDeduplicator();
+
+## API
+- `RequestDeduplicator`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai

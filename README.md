@@ -12,3 +12,6 @@ Solves: Duplicate API calls, cache stampedes, network waste.
 License: MIT
 
 Sponsored by [Ferrow](https://ferrow.ai)
+
+---
+Part of the [ferrow-toolkit](https://github.com/Ruzylo-cloud/ferrow-toolkit) collection · Sponsored by [Ferrow](https://ferrow.ai)
