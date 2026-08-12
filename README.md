@@ -1,4 +1,5 @@
 # Request Deduplicator
+![CI](https://github.com/FerrowAI/request-deduplicator/actions/workflows/ci.yml/badge.svg)
 
 Deduplicate in-flight requests automatically. Saves costs, prevents thundering herd.
 
