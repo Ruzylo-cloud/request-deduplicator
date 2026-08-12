@@ -10,3 +10,5 @@ const result = await dedup.execute('user:123', () => fetchUser(123));
 
 Solves: Duplicate API calls, cache stampedes, network waste.
 License: MIT
+
+Sponsored by [Ferrow](https://ferrow.ai)

@@ -1,1 +1,1 @@
-{"name":"request-deduplicator","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["ferrow"],"license":"MIT"}
+{"name":"request-deduplicator","version":"1.0.0","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc","test":"jest"},"keywords":["deduplication","in-flight-requests","thundering-herd","cache","typescript"],"license":"MIT"}
