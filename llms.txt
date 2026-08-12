@@ -1,6 +1,7 @@
 # request-deduplicator
+> Deduplicate in-flight requests automatically. Saves costs, prevents thundering herd.
 
-Deduplicate in-flight requests automatically. Saves costs, prevents thundering herd. ```javascript const dedup = new RequestDeduplicator();
+Deduplicate in-flight requests automatically. Saves costs, prevents thundering herd.
 
 ## API
 - `RequestDeduplicator`
